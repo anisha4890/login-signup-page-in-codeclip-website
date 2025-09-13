@@ -1,0 +1,135 @@
+[33m0132df0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m chore: update .gitignore file
+[33mfd7c2ac[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31mupstream/HEAD[m[33m)[m Auto-update LEADERBOARD.md [skip ci]
+[33mfd2657e[m Auto-update LEADERBOARD.md [skip ci]
+[33mb81cbf3[m Auto-update LEADERBOARD.md [skip ci]
+[33ma984292[m Auto-update LEADERBOARD.md [skip ci]
+[33mb3ef634[m Auto-update LEADERBOARD.md [skip ci]
+[33m5325a3c[m Auto-update LEADERBOARD.md [skip ci]
+[33mb5c3048[m Auto-update LEADERBOARD.md [skip ci]
+[33mae2140e[m Auto-update LEADERBOARD.md [skip ci]
+[33mdebbc82[m Auto-update LEADERBOARD.md [skip ci]
+[33maf14d0d[m Auto-update LEADERBOARD.md [skip ci]
+[33m22bc838[m Auto-update LEADERBOARD.md [skip ci]
+[33mdde255a[m Auto-update LEADERBOARD.md [skip ci]
+[33m827c204[m Merge pull request #616 from Nikhilrsingh/fix/footer-links-gssoc25
+[33m0e6d053[m fix: correct footer links for Discord and Open an Issue (GSSoC'25)
+[33mfb7b506[m[33m ([m[1;31morigin/feature-login-signup[m[33m, [m[1;32missue-566[m[33m)[m Fixes #566: Implemented assigned GSSOC changes
+[33m23dfa8d[m chore: ignore Windows shortcut files
+[33mef6d17b[m Auto-update LEADERBOARD.md [skip ci]
+[33m6ae6f20[m Auto-update LEADERBOARD.md [skip ci]
+[33ma9e30c4[m Auto-update LEADERBOARD.md [skip ci]
+[33mf3bf7c9[m Auto-update LEADERBOARD.md [skip ci]
+[33mc32eab2[m Merge pull request #613 from Nikhilrsingh/remove-footer-nav
+[33m0c6d434[m Removed redundant footer nav links since navbar is sticky
+[33m33fda40[m Auto-update LEADERBOARD.md [skip ci]
+[33mfb11c59[m Auto-update LEADERBOARD.md [skip ci]
+[33mcbd7ea3[m Auto-update LEADERBOARD.md [skip ci]
+[33mdce1baa[m Auto-update LEADERBOARD.md [skip ci]
+[33m946db94[m Auto-update LEADERBOARD.md [skip ci]
+[33m9f02b80[m Merge pull request #606 from Nikhilrsingh/navbar-hover-effect
+[33m6eff64b[m Added hover effects to navbar items
+[33me1f6d8f[m Auto-update LEADERBOARD.md [skip ci]
+[33mbb81855[m Auto-update LEADERBOARD.md [skip ci]
+[33ma77f9f2[m Merge pull request #582 from Mansi2007275/fix-challege-overlapping
+[33m73a35e7[m Auto-update LEADERBOARD.md [skip ci]
+[33mcf282f5[m Auto-update LEADERBOARD.md [skip ci]
+[33m9825c99[m[33m ([m[1;32mmaster[m[33m)[m Added login and signup pages (Fixes #566)
+[33m680a115[m Auto-update LEADERBOARD.md [skip ci]
+[33m4ef7c55[m Auto-update LEADERBOARD.md [skip ci]
+[33m22c4dcb[m Auto-update LEADERBOARD.md [skip ci]
+[33mf9f4225[m Merge pull request #589 from ShroudAnkit53/bug-fixing
+[33m47d0e19[m Auto-update LEADERBOARD.md [skip ci]
+[33mfadb31e[m Auto-update LEADERBOARD.md [skip ci]
+[33m36d0486[m Auto-update LEADERBOARD.md [skip ci]
+[33ma341e6f[m Auto-update LEADERBOARD.md [skip ci]
+[33m85996bb[m Auto-update LEADERBOARD.md [skip ci]
+[33m081ed73[m Auto-update LEADERBOARD.md [skip ci]
+[33mf4b3efd[m Merge pull request #587 from hiitarun1/feature/clipclip
+[33m84fdc7e[m Merge pull request #586 from Anmol-Mittal30/fix/search-bar-alignment
+[33m2efb821[m Auto-update LEADERBOARD.md [skip ci]
+[33m9b7cb61[m Adding a loader animation
+[33m93fb871[m Fixed Text Allignment
+[33m20aa7dc[m Updated Challenges Page Ui Alignment and search Bar styling and remove some code and add mine code
+[33m8d3fe20[m Auto-update LEADERBOARD.md [skip ci]
+[33mdcdea0e[m Auto-update LEADERBOARD.md [skip ci]
+[33md9c8b69[m remove the overlapping in challege
+[33m96dce17[m Auto-update LEADERBOARD.md [skip ci]
+[33m7f341fc[m Auto-update LEADERBOARD.md [skip ci]
+[33m5a391c9[m Merge pull request #533 from Apo-orva17/main
+[33ma023afc[m Auto-update LEADERBOARD.md [skip ci]
+[33m10dbd98[m Auto-update LEADERBOARD.md [skip ci]
+[33m57d7188[m Merge pull request #565 from Chinmayi-H-M/main
+[33m2322058[m Merge branch 'opensource-society:main' into main
+[33mce28a26[m Resolved merge conflicts
+[33me5195cc[m Auto-update LEADERBOARD.md [skip ci]
+[33m4555be0[m Merge pull request #560 from Mansi2007275/Add-loading-spinner
+[33mfc947ee[m Improve: Home page navigation & card styling
+[33md904e21[m Auto-update LEADERBOARD.md [skip ci]
+[33m45063cc[m Auto-update LEADERBOARD.md [skip ci]
+[33m4dc174b[m Merge pull request #518 from Mansi2007275/Improvement-UI-Challenges
+[33m6626031[m Merge branch 'main' into Improvement-UI-Challenges
+[33m2072c1f[m Added loading spinner in run code button
+[33mb6e51e5[m Auto-update LEADERBOARD.md [skip ci]
+[33m060105c[m Auto-update LEADERBOARD.md [skip ci]
+[33mf9dd2fb[m Auto-update LEADERBOARD.md [skip ci]
+[33m5999ed3[m Merge pull request #540 from Kashish-010/main
+[33m29017dd[m Merge branch 'main' into main
+[33m50889d7[m Merge pull request #557 from DevamshReddy-coder/leaderboard-enhancement
+[33mb38b7fa[m Enhanced leaderboard UI with special honors for top 3 performers
+[33m414ec9d[m Auto-update LEADERBOARD.md [skip ci]
+[33md57a648[m Auto-update LEADERBOARD.md [skip ci]
+[33m5ba8b47[m Auto-update LEADERBOARD.md [skip ci]
+[33mc7410f1[m Merge pull request #550 from Kashish-010/feat/navbar-fix
+[33m2a77ae0[m Auto-update LEADERBOARD.md [skip ci]
+[33m6b49eeb[m Merge branch 'main' into main
+[33mf93e323[m Merge branch 'main' into feat/navbar-fix
+[33meac0a39[m Fixed The Home link in navbar along with span tag not directing us to home page.
+[33m7f91c72[m Auto-update LEADERBOARD.md [skip ci]
+[33m663f946[m Merge pull request #548 from RagniNagpal/fix-contact-mobile
+[33mba78633[m Merge branch 'main' into fix-contact-mobile
+[33me241d06[m Fix contact section mobile layout
+[33m8c466a1[m Auto-update LEADERBOARD.md [skip ci]
+[33mb01e9fa[m Merge pull request #506 from shreyanshdubey2112/patch-2
+[33m3a52487[m Auto-update LEADERBOARD.md [skip ci]
+[33m28ac0f5[m Auto-update LEADERBOARD.md [skip ci]
+[33mfc31c07[m Merge pull request #525 from Mansi2007275/footer-UI
+[33m49c91de[m Auto-update LEADERBOARD.md [skip ci]
+[33mf6b7b2f[m Auto-update LEADERBOARD.md [skip ci]
+[33m857578a[m Auto-update LEADERBOARD.md [skip ci]
+[33m97f9be7[m Auto-update LEADERBOARD.md [skip ci]
+[33m22704c2[m Improve mobile layout for Contact Us section
+[33m6d063ad[m Auto-update LEADERBOARD.md [skip ci]
+[33m73c1676[m Auto-update LEADERBOARD.md [skip ci]
+[33m688af0f[m Auto-update LEADERBOARD.md [skip ci]
+[33mf5c21b1[m Auto-update LEADERBOARD.md [skip ci]
+[33mff15c1f[m Auto-update LEADERBOARD.md [skip ci]
+[33m4bad5b1[m Auto-update LEADERBOARD.md [skip ci]
+[33m35e9106[m Auto-update LEADERBOARD.md [skip ci]
+[33mbec78a7[m Auto-update LEADERBOARD.md [skip ci]
+[33m90b7843[m Fixed the LeaderBoard Heading Display Issue
+[33m1ac47a7[m Auto-update LEADERBOARD.md [skip ci]
+[33mfa1973c[m Auto-update LEADERBOARD.md [skip ci]
+[33m8ce62f0[m Auto-update LEADERBOARD.md [skip ci]
+[33m1411085[m Auto-update LEADERBOARD.md [skip ci]
+[33m99c329f[m Merge pull request #536 from Shivin1016/new-feature
+[33m88448fa[m Auto-update LEADERBOARD.md [skip ci]
+[33m9918bfe[m cards in top coder makes perfact in center
+[33m54cc4ed[m Auto-update LEADERBOARD.md [skip ci]
+[33m9a12b82[m text color set and cards set center
+[33m82a7446[m Auto-update LEADERBOARD.md [skip ci]
+[33m2f31a1e[m Auto-update LEADERBOARD.md [skip ci]
+[33m963d14b[m Merge pull request #522 from Mrunalisa/hero-abouts-changes
+[33m29a909b[m Auto-update LEADERBOARD.md [skip ci]
+[33m8358bd4[m added explore more button in all chalenges
+[33mdefc7d9[m Merge pull request #510 from RagniNagpal/fix-navbar-duplicate
+[33m47c8d7a[m Merge branch 'main' into fix-navbar-duplicate
+[33m9a6d699[m Auto-update LEADERBOARD.md [skip ci]
+[33mf9a5754[m Auto-update LEADERBOARD.md [skip ci]
+[33m6ba8140[m Merge pull request #443 from Abhay-aps001/challenge-page-updated
+[33m19a58a0[m Merge remote-tracking branch 'upstream/main' into challenge-page-updated
+[33mcb00be3[m Auto-update LEADERBOARD.md [skip ci]
+[33m4c52c1c[m Auto-update LEADERBOARD.md [skip ci]
+[33mabd7da6[m Auto-update LEADERBOARD.md [skip ci]
+[33ma916b55[m Footer UI changed
+[33mdb8a522[m Merge branch 'main' into Improvement-UI-Challenges
+[33m81c0516[m feat(ui): add transition animations & theme color consistency for Hero Section
